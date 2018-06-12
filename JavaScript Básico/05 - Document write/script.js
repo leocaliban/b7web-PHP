@@ -1,7 +1,7 @@
-Document.write(
+document.write(
     "Escrever na tela"
 );
 
-Document.write("<img src='http://www.google.com.br/google.jpg' />");
+document.write("<img src='http://www.google.com.br/google.jpg' />");
 
-Document.write("<strong>NEGRITO</strong>");
+document.write("<strong>NEGRITO</strong>");
