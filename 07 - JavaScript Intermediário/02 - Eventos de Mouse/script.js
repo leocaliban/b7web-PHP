@@ -31,3 +31,9 @@ function clicarComDireito(){
 function clickDuplo(){
     console.log("Botão clicado com dois clicks.");
 }
+
+function mudarCor(){
+    var objeto = document.getElementById('minha-div');
+
+    objeto.setAttribute('class', 'medida divColorRed');
+}
