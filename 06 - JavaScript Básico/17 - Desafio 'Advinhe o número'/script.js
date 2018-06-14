@@ -6,7 +6,7 @@ function verificar(){
         alert("Você acertou o número!");
     }
     else{
-        alert("Você errou o número!")
+        alert("Você errou o número!");
     }
 
     resetar();
